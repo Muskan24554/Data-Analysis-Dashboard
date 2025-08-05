@@ -1,2 +1,2 @@
 # Data-Analysis-Dashboard
-💡 Just built a Store Sales Dashboard in Excel! 📊✨ Recently created an interactive Store Sales Dashboard to analyze and visualize sales data efficiently. Using Excel’s Pivot Tables, Charts, and Slicers.
+To analyze the Titanic passenger dataset and uncover key insights about survival rates and passenger demographics. The goal was to build an interactive dashboard that visualizes how factors like class, gender, age, family size, and embarkation point influenced survival outcomes, helping users easily explore and interpret the patterns within the data.
