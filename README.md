@@ -4,8 +4,13 @@ To analyze the Titanic passenger dataset and uncover key insights about survival
 
 ## KPIs (Key Performance Indicators):
 -Total Passengers: 891
+
 -Total Survivors: 342
+
 -Total Deaths: 549
+
 -Survival Rate: (% survivors of total passengers)
+
 -Passenger Counts by Age Group, Gender, Pclass
+
 -Counts by Family Structure (Is Alone, Family Size)
